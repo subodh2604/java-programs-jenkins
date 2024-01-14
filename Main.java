@@ -6,5 +6,7 @@ public  class Main{
        System.out.println("This is java program from jenkins...."); 
        System.out.println("hello"); 
        System.out.println(new Date()); 
+       System.out.println("Updated with the latest code"); 
+
     }
 }

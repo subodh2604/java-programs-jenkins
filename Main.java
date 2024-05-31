@@ -7,7 +7,7 @@ public  class Main{
        System.out.println("hello"); 
        System.out.println(new Date()); 
        System.out.println("Updated with the latest code"); 
-       System.out.println("Updated with the latest code again"); 
+       System.out.println("latest code version: "v1); 
 
     }
 }
